@@ -1,0 +1,19 @@
+.home{
+    width: 100% ;
+    height:35vh;
+    background-color: brown;
+    background-image: url('../asset/dataset.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.my{
+    background-image:url('../asset/image.jfif') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
